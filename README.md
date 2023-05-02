@@ -71,3 +71,6 @@ Here, we have our logic written for the recommendation algorithm. Consists a tot
 
 # Data set Folder :- 
 - Contains the dataset we have used to build our recommendation system.
+
+# Finally the performance of my project :- 
+![](images/image1.png)
