@@ -74,3 +74,9 @@ Here, we have our logic written for the recommendation algorithm. Consists a tot
 
 # Finally the performance of my project :- 
 ![](images/image1.png)
+
+![](images/1.png)
+
+![](images/2.png)
+
+![](images/3.png)
